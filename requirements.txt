@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+spacy
+langchain
+langchain-openai
+langchain-community
+langgraph
+duckduckgo-search
+sentencepiece
+python-dotenv
