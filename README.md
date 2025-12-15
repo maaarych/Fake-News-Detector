@@ -1,5 +1,6 @@
 # Fake News Detection (ML + RAG + NER)
 HF space: https://huggingface.co/spaces/mmarych/FakeNewsDetection
+
 Colab: https://colab.research.google.com/drive/1CzlfUUmq0KX0IBx8XKCKQ8FeYs57rkG_?usp=sharing
 
 This project combines:
@@ -12,6 +13,7 @@ This project combines:
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_key
 streamlit run app.py
+
 
 
 
